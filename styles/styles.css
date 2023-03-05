@@ -1,0 +1,44 @@
+nav {
+    background-color: steelblue;
+    padding: 10px;
+}
+
+nav a {
+    color: white;
+    display: block;
+    padding: 20px;
+}
+
+h1 {
+    color: steelblue;
+}
+
+img {
+    width: 150px;
+    height: auto;
+    border: 1px solid steelblue;
+    padding: 2px;
+    box-shadow: 0 0 30px gray;
+}
+
+p {
+    padding: 0;
+}
+aside {
+    width: 10em;
+    margin: 1em;
+    border: 1px solid rgba(0, 255, 0, 0.2); /* why use rgba instead of hex here? */
+    padding: 1em;
+    background-color: #afe;
+    color: #242;
+    text-align: center;
+  }
+main imp {
+    width: 150px;
+    height: auto;
+}
+footer {
+    margin-top: 1em;
+    border-top: 5px solid #000;
+    text-align: center;
+}
